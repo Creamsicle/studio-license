@@ -1,7 +1,10 @@
 This work is Copyright © [year] [copyright owner].
 
+
 Licensor: [insert name here]
+
 Work: [insert name here]
+
 
 The Licensor grants you permission to a transferable and fully-paid license that allows you to use the Work, publicly display the Work, and create derivatives of the Work.
 
